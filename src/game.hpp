@@ -42,7 +42,7 @@ namespace ui
 
 	void draw()
 	{
-		// databus::window->draw(fps);
+		databus::window->draw(fps);
 	}
 }
 
